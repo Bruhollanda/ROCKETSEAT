@@ -1,9 +1,9 @@
 <div align="center">
-  # Project Notes
+  <h1>Project Notes</h1>
 </div>
 
 <div align="left">
-    ### Commands to start
+    <h3>Commands to start</h3>
     <h5>nvm install --lts</h5>
     <h6> -- Install and use the latest version for npm and node</h6>
     <h5>npm create vite@latest</h5>
