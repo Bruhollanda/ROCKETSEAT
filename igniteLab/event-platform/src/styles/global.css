@@ -1,6 +1,8 @@
+/* arquivo de CSS global para estilização da página*/
+
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; /*Conjuntos de estilização do Tailwind*/
 
 body {
   @apply bg-zinc-900 text-zinc-100;
